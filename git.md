@@ -77,3 +77,9 @@
 - 命令`git push origin --tags`可以推送全部未推送过的本地标签；
 - 命令`git tag -d <tagname>`可以删除一个本地标签；
 - 命令`git push origin :refs/tags/<tagname>`可以删除一个远程标签。
+
+### 配置
+
+- `git config --global user.name "Your Name"`配置用户名
+- ` git config --global user.email "email@example.com"`配置邮箱地址
+- 
